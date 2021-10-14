@@ -1,3 +1,18 @@
 .selector-for-some-widget {
     box-sizing: content-box;
   }
+  
+.sbox{
+  display: flex;
+  
+}
+.ibox{
+  border: 3px solid black;
+  height: 200px;
+  width: 30%;
+}
+.cbox{
+  border: 3px solid black;
+  height: 200px;
+  width: 70%;
+}
