@@ -16,3 +16,12 @@
   height: 200px;
   width: 70%;
 }
+.foot{
+  border: 2px solid lightgreen;
+  background-color: blue;
+}
+.socmed{
+  display: flex;
+  justify-content: center;
+  color: white;
+}
